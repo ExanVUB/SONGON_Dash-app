@@ -1,0 +1,667 @@
+label_l,color_l,x,y,z,line,Unnamed: 6,scatter,specimen
+hoek oogkast links,1,74.9458,-271.2434,268.3994,Reference frame,,Left Eye Corner,41
+botkraakbeen overgang neus,1,93.4857,-210.2243,290.1842,Reference frame,,Nose,41
+hoek oogkast rechts,1,71.6567,-166.4045,254.026,Reference frame,,Right Eye Corner,41
+sulcus supra orbitalis,3,65.7301,-241.7758,291.2757,,,Supra orbital notch,41
+n supraorbitalis splitsing,5,64.3164,-242.5256,291.8559,L Medial Branche,,Branching point 1/5,41
+MEDIAAL mid splitsing - mid,5,49.1465,-247.9267,298.7638,L Medial Branche,,Medial branche proximal 2/5,41
+mid,5,37.4677,-255.3359,301.1283,L Medial Branche,,Medial branche intermedial 3/5,41
+mid dist - mid,5,25.9155,-260.7175,299.2831,L Medial Branche,,Medial branche intermedial 4/5,41
+mediale tak dist,5,7.8148,-264.4932,291.0265,L Medial Branche,,Medial branche distal 5/5,41
+n supraorbitalis splitsing,6,64.3164,-242.5256,291.8559,L Intermedial Branche,,Branching point 1/5,41
+INTER mid splitsing - mid,6,55.3632,-252.2951,296.5377,L Intermedial Branche,,Intermedial branche proximal 2/5,41
+mid,6,48.3094,-256.3841,299.517,L Intermedial Branche,,Intermedial branche intermedial 3/5,41
+mid dist - mid,6,39.3511,-259.9643,298.6319,L Intermedial Branche,,Intermedial branche intermedial 4/5,41
+inter tak dist,6,27.3591,-265.2473,296.6271,L Intermedial Branche,,Intermedial branche distal 5/5,41
+n supraorbitalis splitsing,7,64.3164,-242.5256,291.8559,L Lateral Branche,,Branching point 1/5,41
+LATERAAL mid splitsing - mid,7,34.6046,-269.2618,293.063,L Lateral Branche,,Lateral branche proximal 2/5,41
+mid,7,6.724,-278.112,274.6071,L Lateral Branche,,Lateral branche intermedial 3/5,41
+mid dist - mid,7,-20.9284,-273.7108,255.8391,L Lateral Branche,,Lateral branche intermedial 4/5,41
+laterale tak dist,7,-40.8233,-268.778,227.331,L Lateral Branche,,Lateral branche distal 5/5,41
+lat onder,8,71.7046,-269.0395,277.3221,,,,41
+mid onder,8,67.3945,-243.8486,290.5246,,,,41
+med onder,8,73.0272,-223.9886,287.3713,,,,41
+corrugator supercilii med boven,8,63.6806,-221.4624,295.9228,,,,41
+mid boven,8,55.715,-246.3071,297.5758,,,,41
+lat boven,8,64.5696,-271.5701,277.3432,,,,41
+doorboring med tak,9,56.6496,-244.1187,299.3348,,,,41
+doorboring intermed tak,9,58.0845,-252.4622,295.17,,,,41
+doorboring lat tak,9,,,,,,,41
+frontalis basis med,10,62.1622,-226.3893,297.5894,,,,41
+med mid,10,40.8058,-235.9308,303.6687,,,,41
+med dist,10,16.4858,-243.6797,303.0034,,,,41
+mid prox - med,10,8.0022,-254.5713,295.45,,,,41
+prox mid,10,6.1485,-268.399,287.4978,,,,41
+mid prox - lat,10,14.5686,-277.6064,279.1285,,,,41
+lat dist,10,24.872,-284.3994,273.3016,,,,41
+lat mid,10,44.8554,-279.966,276.7559,,,,41
+basis lat,10,67.178,-270.7016,278.2614,,,,41
+hoek oogkast links,1,75.0116,-271.0209,268.3959,,,,41
+botkraakbeen overgang neus,1,93.4967,-209.8459,290.0261,,,,41
+hoek oogkast rechts,1,71.5504,-166.6155,254.15,,,,41
+sulcus supra orbitalis,3,59.0653,-195.672,284.9938,,,Supra orbital notch,41
+n supraorbitalis splitsing,4,60.6772,-195.8788,282.402,R Medial Branche,,Branching point 1/5,41
+MEDIAAL mid splitsing - mid,5,49.0787,-191.0847,292.1892,R Medial Branche,,Medial branche proximal 2/5,41
+mid,5,41.5566,-190.4842,295.1838,R Medial Branche,,Medial branche intermedial 3/5,41
+mid dist - mid,5,28.9951,-191.3033,296.9945,R Medial Branche,,Medial branche intermedial 4/5,41
+mediale tak dist,5,20.0852,-191.2496,298.3173,R Medial Branche,,Medial branche distal 5/5,41
+n supraorbitalis splitsing,4,60.6772,-195.8788,282.402,R Intermedial Branche,,Branching point 1/5,41
+INTER mid splitsing - mid,6,44.0566,-187.4327,290.1999,R Intermedial Branche,,Intermedial branche proximal 2/5,41
+mid,6,30.7288,-184.6036,292.4817,R Intermedial Branche,,Intermedial branche intermedial 3/5,41
+mid dist - mid,6,18.4067,-184.0374,291.9638,R Intermedial Branche,,Intermedial branche intermedial 4/5,41
+inter tak dist,6,-0.815,-185.4834,282.8036,R Intermedial Branche,,Intermedial branche distal 5/5,41
+n supraorbitalis splitsing,4,60.6772,-195.8788,282.402,R Lateral Branche,,Branching point 1/5,41
+LATERAAL mid splitsing - mid,7,38.1816,-174.8809,282.4418,R Lateral Branche,,Lateral branche proximal 2/5,41
+mid,7,21.9257,-168.8351,276.3395,R Lateral Branche,,Lateral branche intermedial 3/5,41
+mid dist - mid,7,6.3935,-168.0524,266.3977,R Lateral Branche,,Lateral branche intermedial 4/5,41
+laterale tak dist,7,-6.0187,-167.9125,248.0634,R Lateral Branche,,Lateral branche distal 5/5,41
+lat onder,8,60.4877,-166.6149,260.6091,,,,41
+mid onder,8,58.4471,-184.5557,283.7729,,,,41
+med onder,8,68.2102,-207.9608,290.2038,,,,41
+corrugator supercilii med boven,8,55.8387,-208.0494,297.8429,,,,41
+mid boven,8,45.4541,-184.3838,287.1458,,,,41
+lat boven,8,54.0501,-165.8247,259.2725,,,,41
+doorboring med tak,9,42.3793,-189.534,293.4818,,,,41
+doorboring intermed tak,9,,,,,,,41
+doorboring lat tak,9,,,,,,,41
+frontalis basis med,10,57.9664,-205.5248,295.4595,,,,41
+med mid,10,33.2623,-204.3745,300.8605,,,,41
+med dist,10,10.9213,-202.0252,298.8429,,,,41
+mid prox - med,10,5.7039,-191.9114,290.9696,,,,41
+prox mid,10,2.7953,-180.921,279.9466,,,,41
+mid prox - lat,10,11.027,-171.4183,271.7244,,,,41
+lat dist,10,15.3618,-167.4501,269.9516,,,,41
+lat mid,10,34.6951,-165.7175,267.8071,,,,41
+basis lat,10,55.1397,-166.9295,264.8284,,,,41
+hoek oogkast links,1,233.1164,-256.0831,256.3767,Reference frame,,Left Eye Corner,70
+botkraakbeen overgang neus,1,209.9836,-208.6433,286.6217,Reference frame,,Nose,70
+hoek oogkast rechts,1,176.6619,-166.9875,255.1691,Reference frame,,Right Eye Corner,70
+sulcus supra orbitalis,3,200.8589,-242.4547,281.5146,,,Supra orbital notch,70
+n supraorbitalis splitsing,5,202.5403,-244.1373,277.5386,L Medial Branche,,Branching point 1/5,70
+MEDIAAL mid splitsing - mid,5,190.5744,-255.0405,288.5348,L Medial Branche,,Medial branche proximal 2/5,70
+mid,5,181.8952,-260.6202,288.588,L Medial Branche,,Medial branche intermedial 3/5,70
+mid dist - mid,5,172.9576,-265.9725,286.2835,L Medial Branche,,Medial branche intermedial 4/5,70
+mediale tak dist,5,162.4497,-270.0365,282.9058,L Medial Branche,,Medial branche distal 5/5,70
+n supraorbitalis splitsing,6,202.5403,-244.1373,277.5386,L Intermedial Branche,,Branching point 1/5,70
+INTER mid splitsing - mid,6,184.6031,-260.6588,286.4059,L Intermedial Branche,,Intermedial branche proximal 2/5,70
+mid,6,168.0735,-276.8326,277.6284,L Intermedial Branche,,Intermedial branche intermedial 3/5,70
+mid dist - mid,6,152.4962,-282.4149,267.2535,L Intermedial Branche,,Intermedial branche intermedial 4/5,70
+inter tak dist,6,135.8023,-285.0988,255.6609,L Intermedial Branche,,Intermedial branche distal 5/5,70
+n supraorbitalis splitsing,7,202.5403,-244.1373,277.5386,L Lateral Branche,,Branching point 1/5,70
+LATERAAL mid splitsing - mid,7,188.0376,-267.4912,280.1917,L Lateral Branche,,Lateral branche proximal 2/5,70
+mid,7,173.5321,-283.5891,267.8518,L Lateral Branche,,Lateral branche intermedial 3/5,70
+mid dist - mid,7,155.7938,-291.5148,255.2739,L Lateral Branche,,Lateral branche intermedial 4/5,70
+laterale tak dist,7,131.9221,-295.9852,230.8456,L Lateral Branche,,Lateral branche distal 5/5,70
+lat onder,8,211.8975,-266.5261,272.4576,,,,70
+mid onder,8,205.8903,-247.1989,282.5284,,,,70
+med onder,8,197.5104,-225.2783,288.9476,,,,70
+corrugator supercilii med boven,8,185.1391,-235.217,291.4463,,,,70
+mid boven,8,190.9716,-257.0763,286.9839,,,,70
+lat boven,8,202.9571,-272.4186,269.8578,,,,70
+doorboring med tak,9,187.8834,-248.1815,290.6153,,,,70
+doorboring intermed tak,9,,,,,,,70
+doorboring lat tak,9,,,,,,,70
+frontalis basis med,10,188.9751,-230.9037,292.7338,,,,70
+med mid,10,173.9568,-235.9672,291.1662,,,,70
+med dist,10,156.299,-248.696,290.2329,,,,70
+mid prox - med,10,154.0125,-258.6645,285.8781,,,,70
+prox mid,10,155.2033,-274.9944,276.3173,,,,70
+mid prox - lat,10,165.3812,-289.7663,262.0313,,,,70
+lat dist,10,173.1272,-299.5486,245.9309,,,,70
+lat mid,10,193.3784,-286.6871,256.3233,,,,70
+basis lat,10,212.5112,-270.8377,266.1399,,,,70
+hoek oogkast links,1,233.2148,-255.7146,256.2847,,,,70
+botkraakbeen overgang neus,1,209.8224,-208.3086,286.4745,,,,70
+hoek oogkast rechts,1,176.6394,-166.5708,254.761,,,,70
+sulcus supra orbitalis,3,173.2186,-193.7052,277.949,,,Supra orbital notch,70
+n supraorbitalis splitsing,5,174.1796,-195.1475,267.9836,R Medial Branche,,Branching point 1/5,70
+MEDIAAL mid splitsing - mid,5,165.2604,-200.1822,287.2061,R Medial Branche,,Medial branche proximal 2/5,70
+mid,5,153.2835,-204.9768,285.8791,R Medial Branche,,Medial branche intermedial 3/5,70
+mid dist - mid,5,141.5489,-210.1066,284.6691,R Medial Branche,,Medial branche intermedial 4/5,70
+mediale tak dist,5,129.5613,-215.4306,280.4098,R Medial Branche,,Medial branche distal 5/5,70
+n supraorbitalis splitsing,6,174.1796,-195.1475,267.9836,R Intermedial Branche,,Branching point 1/5,70
+INTER mid splitsing - mid,6,145.8777,-199.5474,280.0825,R Intermedial Branche,,Intermedial branche proximal 2/5,70
+mid,6,134.2518,-204.6379,278.447,R Intermedial Branche,,Intermedial branche intermedial 3/5,70
+mid dist - mid,6,122.9368,-212.7713,271.9012,R Intermedial Branche,,Intermedial branche intermedial 4/5,70
+inter tak dist,6,112.2223,-220.3064,261.3033,R Intermedial Branche,,Intermedial branche distal 5/5,70
+n supraorbitalis splitsing,7,174.1796,-195.1475,267.9836,R Lateral Branche,,Branching point 1/5,70
+LATERAAL mid splitsing - mid,7,136.3495,-189.7365,265.6291,R Lateral Branche,,Lateral branche proximal 2/5,70
+mid,7,118.3059,-196.8845,253.3869,R Lateral Branche,,Lateral branche intermedial 3/5,70
+mid dist - mid,7,103.498,-204.9089,238.4472,R Lateral Branche,,Lateral branche intermedial 4/5,70
+laterale tak dist,7,91.0647,-218.9497,216.5294,R Lateral Branche,,Lateral branche distal 5/5,70
+lat onder,8,163.0952,-173.8984,267.5218,,,,70
+mid onder,8,176.0275,-191.0695,281.2457,,,,70
+med onder,8,193.542,-211.5979,285.2983,,,,70
+corrugator supercilii med boven,8,180.0947,-216.4334,290.6953,,,,70
+mid boven,8,164.4606,-196.0424,285.8211,,,,70
+lat boven,8,155.7143,-179.6487,269.4521,,,,70
+doorboring med tak,9,160.8317,-202.8418,285.9906,,,,70
+doorboring intermed tak,9,,,,,,,70
+doorboring lat tak,9,,,,,,,70
+frontalis basis med,10,185.4946,-218.0319,290.682,,,,70
+med mid,10,164.2021,-221.9266,290.0117,,,,70
+med dist,10,141.0566,-230.5347,286.08,,,,70
+mid prox - med,10,127.716,-220.2742,277.1611,,,,70
+prox mid,10,115.1168,-209.6354,259.1566,,,,70
+mid prox - lat,10,122.2914,-192.835,253.2437,,,,70
+lat dist,10,112.8422,-197.3408,246.0225,,,,70
+lat mid,10,137.4943,-183.0082,257.1896,,,,70
+basis lat,10,160.7592,-174.4819,266.1745,,,,70
+hoek oogkast links,1,199.617,-298.8019,257.8874,Reference frame,,Left Eye Corner,74
+botkraakbeen overgang neus,1,188.0519,-249.4377,294.6642,Reference frame,,Nose,74
+hoek oogkast rechts,1,163.4619,-203.6229,264.4583,Reference frame,,Right Eye Corner,74
+sulcus supra orbitalis,3,174.7794,-282.6521,279.6166,,,Supra orbital notch,74
+n supraorbitalis splitsing,5,173.4252,-283.6554,267.7842,L Medial Branche,,Branching point 1/5,74
+MEDIAAL mid splitsing - mid,5,157.1786,-299.0961,280.2056,L Medial Branche,,Medial branche proximal 2/5,74
+mid,5,143.2857,-309.6506,271.9255,L Medial Branche,,Medial branche intermedial 3/5,74
+mid dist - mid,5,134.0097,-313.5247,266.3831,L Medial Branche,,Medial branche intermedial 4/5,74
+mediale tak dist,5,126.0491,-316.8412,258.9842,L Medial Branche,,Medial branche distal 5/5,74
+n supraorbitalis splitsing,6,173.4252,-283.6554,267.7842,L Intermedial Branche,,Branching point 1/5,74
+INTER mid splitsing - mid,6,154.8307,-301.2723,277.988,L Intermedial Branche,,Intermedial branche proximal 2/5,74
+mid,6,145.9514,-313.1906,268.6553,L Intermedial Branche,,Intermedial branche intermedial 3/5,74
+mid dist - mid,6,134.3647,-320.2798,258.5692,L Intermedial Branche,,Intermedial branche intermedial 4/5,74
+inter tak dist,6,113.5184,-324.1807,237.234,L Intermedial Branche,,Intermedial branche distal 5/5,74
+n supraorbitalis splitsing,7,173.4252,-283.6554,267.7842,L Lateral Branche,,Branching point 1/5,74
+LATERAAL mid splitsing - mid,7,162.6883,-306.881,270.712,L Lateral Branche,,Lateral branche proximal 2/5,74
+mid,7,150.3616,-318.1176,262.4078,L Lateral Branche,,Lateral branche intermedial 3/5,74
+mid dist - mid,7,138.2419,-325.5471,250.4975,L Lateral Branche,,Lateral branche intermedial 4/5,74
+laterale tak dist,7,126.8389,-329.0928,232.3543,L Lateral Branche,,Lateral branche distal 5/5,74
+lat onder,8,196.0606,-301.2145,258.0521,,,,74
+mid onder,8,177.7245,-290.4295,281.8201,,,,74
+med onder,8,175.2189,-265.4988,286.3208,,,,74
+corrugator supercilii med boven,8,161.807,-268.8814,290.7408,,,,74
+mid boven,8,167.7999,-292.5403,283.7156,,,,74
+lat boven,8,186.9117,-306.0477,256.9115,,,,74
+doorboring med tak,9,170.3617,-284.7623,288.0873,,,,74
+doorboring intermed tak,9,,,,,,,74
+doorboring lat tak,9,,,,,,,74
+frontalis basis med,10,165.0498,-272.8965,291.2731,,,,74
+med mid,10,139.6172,-276.1518,287.2049,,,,74
+med dist,10,115.3692,-280.6863,280.0311,,,,74
+mid prox - med,10,116.8325,-296.7844,273.4139,,,,74
+prox mid,10,121.388,-311.6305,263.3513,,,,74
+mid prox - lat,10,133.0312,-321.4489,252.9215,,,,74
+lat dist,10,139.9165,-327.648,248.0012,,,,74
+lat mid,10,159.1044,-317.8612,260.262,,,,74
+basis lat,10,179.1983,-305.898,266.8196,,,,74
+hoek oogkast links,1,200.8502,-299.0164,257.7351,,,,74
+botkraakbeen overgang neus,1,189.2762,-249.4438,294.5932,,,,74
+hoek oogkast rechts,1,164.2973,-203.9066,264.2433,,,,74
+sulcus supra orbitalis,3,164.5668,-232.8081,285.8972,,,Supra orbital notch,74
+n supraorbitalis splitsing,5,163.8367,-232.1667,285.5962,R Medial Branche,,Branching point 1/5,74
+MEDIAAL mid splitsing - mid,5,149.9078,-237.4807,290.8867,R Medial Branche,,Medial branche proximal 2/5,74
+mid,5,135.9164,-241.1465,284.7819,R Medial Branche,,Medial branche intermedial 3/5,74
+mid dist - mid,5,126.6401,-246.4089,282.4085,R Medial Branche,,Medial branche intermedial 4/5,74
+mediale tak dist,5,116.8536,-250.9531,277.259,R Medial Branche,,Medial branche distal 5/5,74
+n supraorbitalis splitsing,6,163.8367,-232.1667,285.5962,R Intermedial Branche,,Branching point 1/5,74
+INTER mid splitsing - mid,6,133.703,-233.1151,280.3525,R Intermedial Branche,,Intermedial branche proximal 2/5,74
+mid,6,121.6214,-234.6264,275.2316,R Intermedial Branche,,Intermedial branche intermedial 3/5,74
+mid dist - mid,6,108.5275,-237.8475,265.6091,R Intermedial Branche,,Intermedial branche intermedial 4/5,74
+inter tak dist,6,100.4238,-240.3069,257.8597,R Intermedial Branche,,Intermedial branche distal 5/5,74
+n supraorbitalis splitsing,7,163.8367,-232.1667,285.5962,R Lateral Branche,,Branching point 1/5,74
+LATERAAL mid splitsing - mid,7,129.4463,-224.3883,274.9605,R Lateral Branche,,Lateral branche proximal 2/5,74
+mid,7,112.0872,-225.2911,260.0537,R Lateral Branche,,Lateral branche intermedial 3/5,74
+mid dist - mid,7,98.8411,-229.3589,243.4384,R Lateral Branche,,Lateral branche intermedial 4/5,74
+laterale tak dist,7,87.5667,-233.538,226.0914,R Lateral Branche,,Lateral branche distal 5/5,74
+lat onder,8,163.3009,-200.4474,270.1543,,,,74
+mid onder,8,161.4724,-224.991,289.5303,,,,74
+med onder,8,173.3537,-246.4843,293.1158,,,,74
+corrugator supercilii med boven,8,160.6353,-250.8787,291.6288,,,,74
+mid boven,8,148.7102,-229.1743,286.0893,,,,74
+lat boven,8,156.4256,-200.992,267.1761,,,,74
+doorboring med tak,9,148.2316,-234.8095,288.4762,,,,74
+doorboring intermed tak,9,,,,,,,74
+doorboring lat tak,9,,,,,,,74
+frontalis basis med,10,167.3483,-253.1041,294.2868,,,,74
+med mid,10,147.3732,-262.4387,287.46,,,,74
+med dist,10,126.1226,-267.4857,282.4548,,,,74
+mid prox - med,10,112.6028,-254.5011,273.9155,,,,74
+prox mid,10,104.5013,-241.5435,262.035,,,,74
+mid prox - lat,10,104.5321,-227.313,251.7183,,,,74
+lat dist,10,104.7733,-222.0656,247.574,,,,74
+lat mid,10,125.5624,-213.1217,255.5756,,,,74
+basis lat,10,153.5536,-206.2458,272.317,,,,74
+hoek oogkast links,1,-159.9599,-186.9542,288.6918,Reference frame,,Left Eye Corner,80
+botkraakbeen overgang neus,1,-194.8779,-234.4147,320.8625,Reference frame,,Nose,80
+hoek oogkast rechts,1,-213.3635,-286.2545,286.6807,Reference frame,,Right Eye Corner,80
+sulcus supra orbitalis,3,-159.0653,-226.3694,320.3101,,,Supra orbital notch,80
+n supraorbitalis splitsing,5,-158.4329,-227.1864,313.2429,L Medial Branche,,Branching point 1/5,80
+MEDIAAL mid splitsing - mid,5,-153.6439,-228.3359,325.4304,L Medial Branche,,Medial branche proximal 2/5,80
+mid,5,-148.9649,-229.5447,325.863,L Medial Branche,,Medial branche intermedial 3/5,80
+mid dist - mid,5,-144.7222,-231.3157,326.2708,L Medial Branche,,Medial branche intermedial 4/5,80
+mediale tak dist,5,-137.378,-233.4674,325.5797,L Medial Branche,,Medial branche distal 5/5,80
+n supraorbitalis splitsing,6,-158.4329,-227.1864,313.2429,L Intermedial Branche,,Branching point 1/5,80
+INTER mid splitsing - mid,6,-133.2823,-227.1616,323.0476,L Intermedial Branche,,Intermedial branche proximal 2/5,80
+mid,6,-114.3393,-232.9261,317.5442,L Intermedial Branche,,Intermedial branche intermedial 3/5,80
+mid dist - mid,6,-99.2212,-240.2865,308.5001,L Intermedial Branche,,Intermedial branche intermedial 4/5,80
+inter tak dist,6,-79.4084,-251.0404,290.2786,L Intermedial Branche,,Intermedial branche distal 5/5,80
+n supraorbitalis splitsing,7,-158.4329,-227.1864,313.2429,L Lateral Branche,,Branching point 1/5,80
+LATERAAL mid splitsing - mid,7,-134.0018,-220.5847,319.4713,L Lateral Branche,,Lateral branche proximal 2/5,80
+mid,7,-113.2481,-224.0101,311.598,L Lateral Branche,,Lateral branche intermedial 3/5,80
+mid dist - mid,7,-87.7429,-232.8134,292.5656,L Lateral Branche,,Lateral branche intermedial 4/5,80
+laterale tak dist,7,-72.8574,-241.8536,273.1309,L Lateral Branche,,Lateral branche distal 5/5,80
+lat onder,8,-154.8578,-191.9926,294.108,,,,80
+mid onder,8,-158.316,-218.8918,316.7963,,,,80
+med onder,8,-176.5202,-232.787,311.1971,,,,80
+corrugator supercilii med boven,8,-166.6594,-244.7837,325.5826,,,,80
+mid boven,8,-149.1016,-223.36,322.3965,,,,80
+lat boven,8,-144.8468,-195.6929,292.7956,,,,80
+doorboring med tak,9,-153.701,-227.7872,325.1803,,,,80
+doorboring intermed tak,9,,,,,,,80
+doorboring lat tak,9,,,,,,,80
+frontalis basis med,10,-169.718,-238.8352,324.2245,,,,80
+med mid,10,-141.7967,-248.5171,329.5981,,,,80
+med dist,10,-115.3408,-255.939,323.3061,,,,80
+mid prox - med,10,-105.4696,-249.1821,316.784,,,,80
+prox mid,10,-97.8322,-235.9694,305.6065,,,,80
+mid prox - lat,10,-98.3979,-223.8333,297.4428,,,,80
+lat dist,10,-96.9545,-222.7588,295.48,,,,80
+lat mid,10,-120.8863,-209.1501,300.6261,,,,80
+basis lat,10,-145.9304,-198.4613,303.1989,,,,80
+hoek oogkast links,1,-159.9334,-186.4643,288.6641,,,,80
+botkraakbeen overgang neus,1,-194.7085,-234.6321,320.9156,,,,80
+hoek oogkast rechts,1,-212.7167,-286.6587,286.6376,,,,80
+sulcus supra orbitalis,3,-185.9039,-267.1856,313.9034,,,Supra orbital notch,80
+n supraorbitalis splitsing,5,-185.1892,-268.0185,316.064,R Medial Branche,,Branching point 1/5,80
+MEDIAAL mid splitsing - mid,5,-180.6581,-260.7637,322.1135,R Medial Branche,,Medial branche proximal 2/5,80
+mid,5,-172.8436,-262.5084,324.8013,R Medial Branche,,Medial branche intermedial 3/5,80
+mid dist - mid,5,-167.0869,-265.4784,325.804,R Medial Branche,,Medial branche intermedial 4/5,80
+mediale tak dist,5,-160.7754,-268.3937,326.6563,R Medial Branche,,Medial branche distal 5/5,80
+n supraorbitalis splitsing,6,-185.1892,-268.0185,316.064,R Intermedial Branche,,Branching point 1/5,80
+INTER mid splitsing - mid,6,-172.4611,-278.0022,322.117,R Intermedial Branche,,Intermedial branche proximal 2/5,80
+mid,6,-160.5341,-289.8971,321.8355,R Intermedial Branche,,Intermedial branche intermedial 3/5,80
+mid dist - mid,6,-143.4239,-299.1481,316.8181,R Intermedial Branche,,Intermedial branche intermedial 4/5,80
+inter tak dist,6,-127.7033,-305.2708,307.5558,R Intermedial Branche,,Intermedial branche distal 5/5,80
+n supraorbitalis splitsing,7,-185.1892,-268.0185,316.064,R Lateral Branche,,Branching point 1/5,80
+LATERAAL mid splitsing - mid,7,-170.8301,-300.7356,311.1789,R Lateral Branche,,Lateral branche proximal 2/5,80
+mid,7,-148.8221,-316.4636,297.3456,R Lateral Branche,,Lateral branche intermedial 3/5,80
+mid dist - mid,7,-123.511,-327.8783,273.2202,R Lateral Branche,,Lateral branche intermedial 4/5,80
+laterale tak dist,7,-97.2954,-327.4095,244.8846,R Lateral Branche,,Lateral branche distal 5/5,80
+lat onder,8,-206.123,-284.8719,296.7908,,,,80
+mid onder,8,-190.4216,-272.3766,313.6235,,,,80
+med onder,8,-184.8508,-248.1082,310.5881,,,,80
+corrugator supercilii med boven,8,-174.1654,-248.6274,322.9835,,,,80
+mid boven,8,-181.7845,-278.5636,318.7962,,,,80
+lat boven,8,-198.8946,-293.8408,294.9104,,,,80
+doorboring med tak,9,-170.3499,-264.4682,324.9197,,,,80
+doorboring intermed tak,9,-177.5031,-272.8566,321.4495,,,,80
+doorboring lat tak,9,,,,,,,80
+frontalis basis med,10,-179.5338,-247.8399,319.4563,,,,80
+med mid,10,-154.9241,-289.4255,323.1798,,,,80
+med dist,10,-131.0696,-302.0466,311.9004,,,,80
+mid prox - med,10,-135.9859,-313.8037,299.3453,,,,80
+prox mid,10,-141.4457,-322.7,285.4684,,,,80
+mid prox - lat,10,-153.2794,-326.5684,275.8392,,,,80
+lat dist,10,-148.7324,-324.8215,280.1668,,,,80
+lat mid,10,-182.064,-308.7079,286.9534,,,,80
+basis lat,10,-202.9324,-291.4055,289.2175,,,,80
+hoek oogkast links,1,221.2522,-289.9448,292.873,Reference frame,,Left Eye Corner,103
+botkraakbeen overgang neus,1,188.5497,-243.7903,326.7227,Reference frame,,Nose,103
+hoek oogkast rechts,1,159.9831,-195.2457,297.1866,Reference frame,,Right Eye Corner,103
+sulcus supra orbitalis,3,190.1624,-274.8161,309.3852,,,Supra orbital notch,103
+n supraorbitalis splitsing,5,193.632,-280.9218,298.3862,L Medial Branche,,Branching point 1/5,103
+MEDIAAL mid splitsing - mid,5,178.3757,-283.5448,313.3826,L Medial Branche,,Medial branche proximal 2/5,103
+mid,5,172.27,-290.1732,306.3946,L Medial Branche,,Medial branche intermedial 3/5,103
+mid dist - mid,5,166.0457,-296.589,301.5832,L Medial Branche,,Medial branche intermedial 4/5,103
+mediale tak dist,5,162.7688,-302.238,296.5151,L Medial Branche,,Medial branche distal 5/5,103
+n supraorbitalis splitsing,6,193.632,-280.9218,298.3862,L Intermedial Branche,,Branching point 1/5,103
+INTER mid splitsing - mid,6,179.5383,-287.6851,307.755,L Intermedial Branche,,Intermedial branche proximal 2/5,103
+mid,6,171.3911,-298.698,299.5122,L Intermedial Branche,,Intermedial branche intermedial 3/5,103
+mid dist - mid,6,168.0157,-304.3846,293.4326,L Intermedial Branche,,Intermedial branche intermedial 4/5,103
+inter tak dist,6,151.0717,-311.7699,277.9077,L Intermedial Branche,,Intermedial branche distal 5/5,103
+n supraorbitalis splitsing,7,193.632,-280.9218,298.3862,L Lateral Branche,,Branching point 1/5,103
+LATERAAL mid splitsing - mid,7,180.2882,-306.9133,289.8473,L Lateral Branche,,Lateral branche proximal 2/5,103
+mid,7,176.5835,-316.3116,272.4079,L Lateral Branche,,Lateral branche intermedial 3/5,103
+mid dist - mid,7,167.6374,-326.3551,247.733,L Lateral Branche,,Lateral branche intermedial 4/5,103
+laterale tak dist,7,159.3802,-328.5955,210.7738,L Lateral Branche,,Lateral branche distal 5/5,103
+lat onder,8,207.4509,-288.6653,303.6572,,,,103
+med onder,8,183.6861,-264.5995,316.0782,,,,103
+mid onder,8,194.0468,-276.0762,312.6674,,,,103
+corrugator supercilii med boven,8,169.8089,-271.0424,315.9737,,,,103
+mid boven,8,185.5813,-286.7699,308.3656,,,,103
+lat boven,8,202.9767,-296.2018,301.2832,,,,103
+doorboring med tak,9,177.5286,-285.5561,310.857,,,,103
+doorboring intermed tak,9,,,,,,,103
+doorboring lat tak,9,,,,,,,103
+frontalis basis med,10,177.7932,-264.6438,317.9297,,,,103
+med mid,10,159.2998,-287.955,303.3093,,,,103
+med dist,10,145.3151,-298.2354,291.9617,,,,103
+mid prox - med,10,148.4494,-306.0277,285.1383,,,,103
+prox mid,10,156.1016,-315.0475,272.963,,,,103
+mid prox - lat,10,166.2529,-317.8178,270.4737,,,,103
+lat dist,10,171.9241,-319.3379,265.5106,,,,103
+lat mid,10,188.8461,-308.4245,283.3067,,,,103
+basis lat,10,208.2624,-292.9091,302.7135,,,,103
+hoek oogkast links,1,222.4246,-287.7971,292.0782,,,,103
+botkraakbeen overgang neus,1,190.4458,-240.1181,326.4572,,,,103
+hoek oogkast rechts,1,161.7171,-192.3564,296.8553,,,,103
+sulcus supra orbitalis,3,167.7248,-228.7157,309.6187,,,Supra orbital notch,103
+n supraorbitalis splitsing,5,165.6944,-222.7847,303.5349,R Medial Branche,,Branching point 1/5,103
+MEDIAAL mid splitsing - mid,5,159.6925,-235.5761,318.5975,R Medial Branche,,Medial branche proximal 2/5,103
+mid,5,149.5151,-239.8894,315.11,R Medial Branche,,Medial branche intermedial 3/5,103
+mid dist - mid,5,142.9928,-244.8536,310.5931,R Medial Branche,,Medial branche intermedial 4/5,103
+mediale tak dist,5,135.7854,-249.4115,304.0489,R Medial Branche,,Medial branche distal 5/5,103
+n supraorbitalis splitsing,6,165.6944,-222.7847,303.5349,R Intermedial Branche,,Branching point 1/5,103
+INTER mid splitsing - mid,6,146.6978,-231.9515,308.4173,R Intermedial Branche,,Intermedial branche proximal 2/5,103
+mid,6,135.8305,-234.0947,300.6867,R Intermedial Branche,,Intermedial branche intermedial 3/5,103
+mid dist - mid,6,126.026,-239.9081,292.4729,R Intermedial Branche,,Intermedial branche intermedial 4/5,103
+inter tak dist,6,118.1063,-241.7212,284.8756,R Intermedial Branche,,Intermedial branche distal 5/5,103
+n supraorbitalis splitsing,7,165.6944,-222.7847,303.5349,R Lateral Branche,,Branching point 1/5,103
+LATERAAL mid splitsing - mid,7,132.5566,-223.0107,292.49,R Lateral Branche,,Lateral branche proximal 2/5,103
+mid,7,116.172,-225.9295,267.2148,R Lateral Branche,,Lateral branche intermedial 3/5,103
+mid dist - mid,7,105.7711,-231.4842,237.2257,R Lateral Branche,,Lateral branche intermedial 4/5,103
+laterale tak dist,7,100.1384,-243.2239,211.8421,R Lateral Branche,,Lateral branche distal 5/5,103
+lat onder,8,160.0608,-194.9924,300.4833,,,,103
+med onder,8,178.608,-234.7758,317.3344,,,,103
+mid onder,8,163.288,-216.7567,310.4657,,,,103
+corrugator supercilii med boven,8,170.3379,-244.8577,323.0319,,,,103
+mid boven,8,152.6641,-220.3512,309.9693,,,,103
+lat boven,8,148.9289,-204.1079,299.1443,,,,103
+doorboring med tak,9,164.5547,-233.9366,317.833,,,,103
+doorboring intermed tak,9,159.6079,-229.6671,316.002,,,,103
+doorboring lat tak,9,,,,,,,103
+frontalis basis med,10,169.9429,-244.9555,321.9884,,,,103
+med mid,10,141.049,-252.7735,306.5554,,,,103
+med dist,10,115.4517,-261.2937,283.6537,,,,103
+mid prox - med,10,107.4604,-251.9806,262.4085,,,,103
+prox mid,10,107.4553,-236.3735,247.2411,,,,103
+mid prox - lat,10,111.0686,-219.7472,238.1614,,,,103
+lat dist,10,111.4697,-215.5338,234.6362,,,,103
+lat mid,10,126.0644,-210.4533,265.6727,,,,103
+basis lat,10,157.3625,-197.5401,301.381,,,,103
+hoek oogkast links,1,212.1185,-209.1909,244.3525,Reference frame,,Left Eye Corner,122
+botkraakbeen overgang neus,1,193.7936,-163.2092,279.8521,Reference frame,,Nose,122
+hoek oogkast rechts,1,157.1858,-121.783,253.8803,Reference frame,,Right Eye Corner,122
+sulcus supra orbitalis,3,182.8922,-194.4478,271.7116,,,Supra orbital notch,122
+n supraorbitalis splitsing,5,183.942,-195.3602,274.0097,L Medial Branche,,Branching point 1/5,122
+MEDIAAL mid splitsing - mid,5,180.584,-207.3374,278.8823,L Medial Branche,,Medial branche proximal 2/5,122
+mid,5,173.6568,-212.9471,279.3486,L Medial Branche,,Medial branche intermedial 3/5,122
+mid dist - mid,5,165.5542,-216.4408,281.583,L Medial Branche,,Medial branche intermedial 4/5,122
+mediale tak dist,5,155.5578,-221.596,286.0782,L Medial Branche,,Medial branche distal 5/5,122
+n supraorbitalis splitsing,6,183.942,-195.3602,274.0097,L Intermedial Branche,,Branching point 1/5,122
+INTER mid splitsing - mid,6,177.8989,-210.7855,278.258,L Intermedial Branche,,Intermedial branche proximal 2/5,122
+mid,6,171.2537,-217.6388,279.8098,L Intermedial Branche,,Intermedial branche intermedial 3/5,122
+mid dist - mid,6,162.7346,-222.9158,280.5229,L Intermedial Branche,,Intermedial branche intermedial 4/5,122
+inter tak dist,6,154.2232,-228.8785,280.3025,L Intermedial Branche,,Intermedial branche distal 5/5,122
+n supraorbitalis splitsing,7,183.942,-195.3602,274.0097,L Lateral Branche,,Branching point 1/5,122
+LATERAAL mid splitsing - mid,7,168.6542,-220.371,277.1718,L Lateral Branche,,Lateral branche proximal 2/5,122
+mid,7,151.8079,-250.5792,259.4775,L Lateral Branche,,Lateral branche intermedial 3/5,122
+mid dist - mid,7,128.3284,-264.7664,235.6994,L Lateral Branche,,Lateral branche intermedial 4/5,122
+laterale tak dist,7,106.4212,-268.8246,211.9217,L Lateral Branche,,Lateral branche distal 5/5,122
+lat onder,8,202.2375,-214.7209,256.8817,,,,122
+mid onder,8,188.781,-204.0062,273.7997,,,,122
+med onder,8,181.9483,-185.8051,282.0333,,,,122
+corrugator supercilii med boven,8,174.6173,-191.1129,284.2284,,,,122
+mid boven,8,179.0002,-209.1878,278.9564,,,,122
+lat boven,8,192.1491,-221.3773,256.8437,,,,122
+doorboring med tak,9,177.5136,-210.5843,279.2508,,,,122
+doorboring intermed tak,9,176.8817,-213.4225,276.5311,,,,122
+doorboring lat tak,9,,,,,,,122
+frontalis basis med,10,178.9736,-186.2392,283.4547,,,,122
+med mid,10,154.2989,-196.2279,285.8784,,,,122
+med dist,10,132.4925,-209.2923,284.6156,,,,122
+mid prox - med,10,134.94,-224.1236,280.3408,,,,122
+prox mid,10,136.8508,-239.559,272.0111,,,,122
+mid prox - lat,10,143.4733,-251.3645,260.586,,,,122
+lat dist,10,147.0787,-256.1378,252.4206,,,,122
+lat mid,10,177.179,-239.4006,254.2802,,,,122
+basis lat,10,196.0615,-218.8324,257.2379,,,,122
+hoek oogkast links,1,212.1032,-209.6706,244.2796,,,,122
+botkraakbeen overgang neus,1,156.855,-121.8462,253.6736,,,,122
+hoek oogkast rechts,1,193.5919,-163.2048,279.3889,,,,122
+sulcus supra orbitalis,3,162.5219,-156.0285,272.1502,,,Supra orbital notch,122
+n supraorbitalis splitsing,5,157.8762,-152.7419,277.9853,R Medial Branche,,Branching point 1/5,122
+MEDIAAL mid splitsing - mid,5,132.962,-155.7804,283.5276,R Medial Branche,,Medial branche proximal 2/5,122
+mid,5,109.1278,-163.75,281.2489,R Medial Branche,,Medial branche intermedial 3/5,122
+mid dist - mid,5,94.827,-173.6435,271.9429,R Medial Branche,,Medial branche intermedial 4/5,122
+mediale tak dist,5,78.7508,-185.1535,255.6664,R Medial Branche,,Medial branche distal 5/5,122
+n supraorbitalis splitsing,6,157.8762,-152.7419,277.9853,R Intermedial Branche,,Branching point 1/5,122
+INTER mid splitsing - mid,6,129.7971,-151.5208,279.9983,R Intermedial Branche,,Intermedial branche proximal 2/5,122
+mid,6,99.933,-161.1714,271.4879,R Intermedial Branche,,Intermedial branche intermedial 3/5,122
+mid dist - mid,6,82.1717,-174.8758,257.7374,R Intermedial Branche,,Intermedial branche intermedial 4/5,122
+inter tak dist,6,67.1341,-191.7241,238.7405,R Intermedial Branche,,Intermedial branche distal 5/5,122
+n supraorbitalis splitsing,7,157.8762,-152.7419,277.9853,R Lateral Branche,,Branching point 1/5,122
+LATERAAL mid splitsing - mid,7,118.1814,-144.8609,272.4268,R Lateral Branche,,Lateral branche proximal 2/5,122
+mid,7,92.965,-154.8215,258.5604,R Lateral Branche,,Lateral branche intermedial 3/5,122
+mid dist - mid,7,75.6733,-164.3162,242.7516,R Lateral Branche,,Lateral branche intermedial 4/5,122
+laterale tak dist,7,68.1117,-156.6059,219.931,R Lateral Branche,,Lateral branche distal 5/5,122
+lat onder,8,151.8585,-131.3055,266.9641,,,,122
+mid onder,8,158.5146,-149.5082,277.2609,,,,122
+med onder,8,173.2144,-162.7211,281.1645,,,,122
+corrugator supercilii med boven,8,163.5036,-169.7378,287.3498,,,,122
+mid boven,8,145.0009,-150.9534,279.9777,,,,122
+lat boven,8,139.4856,-135.1611,266.0314,,,,122
+doorboring med tak,9,144.0554,-156.9849,282.2543,,,,122
+doorboring intermed tak,9,,,,,,,122
+doorboring lat tak,9,,,,,,,122
+frontalis basis med,10,171.2688,-173.354,285.7937,,,,122
+med mid,10,153.8627,-184.4392,285.1169,,,,122
+med dist,10,127.0626,-199.2698,284.6003,,,,122
+mid prox - med,10,109.6305,-186.308,281.204,,,,122
+prox mid,10,94.7427,-170.6222,268.5785,,,,122
+mid prox - lat,10,93.6198,-154.072,258.1895,,,,122
+lat dist,10,92.7503,-150.4277,252.7106,,,,122
+lat mid,10,121.61,-140.5701,266.5573,,,,122
+basis lat,10,148.2867,-131.1466,266.55,,,,122
+hoek oogkast links,1,199.617,-298.8019,257.8874,Reference frame,,Left Eye Corner,158
+botkraakbeen overgang neus,1,188.0519,-249.4377,294.6642,Reference frame,,Nose,158
+hoek oogkast rechts,1,163.4619,-203.6229,264.4583,Reference frame,,Right Eye Corner,158
+sulcus supra orbitalis,3,174.7794,-282.6521,279.6166,,,Supra orbital notch,158
+n supraorbitalis splitsing,5,174.7794,-282.6521,279.6166,L Medial Branche,,Branching point 1/5,158
+MEDIAAL mid splitsing - mid,5,170.3617,-284.7623,288.0873,L Medial Branche,,Medial branche proximal 2/5,158
+mid,5,160.431,-287.085,287.711,L Medial Branche,,Medial branche intermedial 3/5,158
+mid dist - mid,5,145.451,-288.327,286.906,L Medial Branche,,Medial branche intermedial 4/5,158
+mediale tak dist,5,124.624,-287.272,285.013,L Medial Branche,,Medial branche distal 5/5,158
+n supraorbitalis splitsing,6,174.7794,-282.6521,279.6166,L Intermedial Branche,,Branching point 1/5,158
+INTER mid splitsing - mid,6,,,,L Intermedial Branche,,Intermedial branche proximal 2/5,158
+mid,6,,,,L Intermedial Branche,,Intermedial branche intermedial 3/5,158
+mid dist - mid,6,,,,L Intermedial Branche,,Intermedial branche intermedial 4/5,158
+inter tak dist,6,,,,L Intermedial Branche,,Intermedial branche distal 5/5,158
+n supraorbitalis splitsing,7,174.7794,-282.6521,279.6166,L Lateral Branche,,Branching point 1/5,158
+LATERAAL mid splitsing - mid,7,170.3617,-284.7623,288.0873,L Lateral Branche,,Lateral branche proximal 2/5,158
+mid,7,151.0179,-293.1186,285.2968,L Lateral Branche,,Lateral branche intermedial 3/5,158
+mid dist - mid,7,135.081,-296.35,279.907,L Lateral Branche,,Lateral branche intermedial 4/5,158
+laterale tak dist,7,117.9187,-298.917,270.0226,L Lateral Branche,,Lateral branche distal 5/5,158
+lat onder,8,196.0606,-301.2145,258.0521,,,,158
+mid onder,8,177.7245,-290.4295,281.8201,,,,158
+med onder,8,175.2189,-265.4988,286.3208,,,,158
+corrugator supercilii med boven,8,161.807,-268.8814,290.7408,,,,158
+mid boven,8,167.7999,-292.5403,283.7156,,,,158
+lat boven,8,186.9117,-306.0477,256.9115,,,,158
+doorboring med tak,9,170.3617,-284.7623,288.0873,,,,158
+doorboring intermed tak,9,,,,,,,158
+doorboring lat tak,9,,,,,,,158
+frontalis basis med,10,165.0498,-272.8965,291.2731,,,,158
+med mid,10,139.6172,-276.1518,287.2049,,,,158
+med dist,10,115.3692,-280.6863,280.0311,,,,158
+mid prox - med,10,116.8325,-296.7844,273.4139,,,,158
+prox mid,10,121.388,-311.6305,263.3513,,,,158
+mid prox - lat,10,133.0312,-321.4489,252.9215,,,,158
+lat dist,10,139.9165,-327.648,248.0012,,,,158
+lat mid,10,159.1044,-317.8612,260.262,,,,158
+basis lat,10,179.1983,-305.898,266.8196,,,,158
+hoek oogkast links,1,200.8502,-299.0164,257.7351,,,,158
+botkraakbeen overgang neus,1,189.2762,-249.4438,294.5932,,,,158
+hoek oogkast rechts,1,164.2973,-203.9066,264.2433,,,,158
+sulcus supra orbitalis,3,164.5668,-232.8081,285.8972,,,Supra orbital notch,158
+n supraorbitalis splitsing,5,163.8367,-232.1667,285.5962,R Medial Branche,,Branching point 1/5,158
+MEDIAAL mid splitsing - mid,5,148.2316,-234.8095,288.4762,R Medial Branche,,Medial branche proximal 2/5,158
+mid,5,133.87539,-232.19,287.238,R Medial Branche,,Medial branche intermedial 3/5,158
+mid dist - mid,5,119.559,-231.74,284.147,R Medial Branche,,Medial branche intermedial 4/5,158
+mediale tak dist,5,103.9049,-234.212,279.57189,R Medial Branche,,Medial branche distal 5/5,158
+n supraorbitalis splitsing,6,163.8367,-232.1667,285.5962,R Intermedial Branche,,Branching point 1/5,158
+INTER mid splitsing - mid,6,148.2316,-234.8095,288.4762,R Intermedial Branche,,Intermedial branche proximal 2/5,158
+mid,6,128.4729,-231.3622,285.6415,R Intermedial Branche,,Intermedial branche intermedial 3/5,158
+mid dist - mid,6,107.82899,-230.4167,277.0626,R Intermedial Branche,,Intermedial branche intermedial 4/5,158
+inter tak dist,6,91.5755,-233.2077,271.458,R Intermedial Branche,,Intermedial branche distal 5/5,158
+n supraorbitalis splitsing,7,163.8367,-232.1667,285.5962,R Lateral Branche,,Branching point 1/5,158
+LATERAAL mid splitsing - mid,7,148.2316,-234.8095,288.4762,R Lateral Branche,,Lateral branche proximal 2/5,158
+mid,7,128.94619,-229.3549,281.0406,R Lateral Branche,,Lateral branche intermedial 3/5,158
+mid dist - mid,7,114.47349,-228.2387,269.6129,R Lateral Branche,,Lateral branche intermedial 4/5,158
+laterale tak dist,7,102.5533,-226.6934,258.5482,R Lateral Branche,,Lateral branche distal 5/5,158
+lat onder,8,163.3009,-200.4474,270.1543,,,,158
+mid onder,8,161.4724,-224.991,289.5303,,,,158
+med onder,8,173.3537,-246.4843,293.1158,,,,158
+corrugator supercilii med boven,8,160.6353,-250.8787,291.6288,,,,158
+mid boven,8,148.7102,-229.1743,286.0893,,,,158
+lat boven,8,156.4256,-200.992,267.1761,,,,158
+doorboring med tak,9,148.2316,-234.8095,288.4762,,,,158
+doorboring intermed tak,9,,,,,,,158
+doorboring lat tak,9,,,,,,,158
+frontalis basis med,10,167.3483,-253.1041,294.2868,,,,158
+med mid,10,147.3732,-262.4387,287.46,,,,158
+med dist,10,126.1226,-267.4857,282.4548,,,,158
+mid prox - med,10,112.6028,-254.5011,273.9155,,,,158
+prox mid,10,104.5013,-241.5435,262.035,,,,158
+mid prox - lat,10,104.5321,-227.313,251.7183,,,,158
+lat dist,10,104.7733,-222.0656,247.574,,,,158
+lat mid,10,125.5624,-213.1217,255.5756,,,,158
+basis lat,10,153.5536,-206.2458,272.317,,,,158
+hoek oogkast links,1,129.4661,179.6546,260.1664,Reference frame,,Left Eye Corner,183
+botkraakbeen overgang neus,1,139.0818,227.4811,312.4534,Reference frame,,Nose,183
+hoek oogkast rechts,1,120.2879,279.8816,290.8477,Reference frame,,Right Eye Corner,183
+sulcus supra orbitalis,3,109.1449,202.9113,300.3926,,,Supra orbital notch,183
+n supraorbitalis splitsing,5,109.9781,205.0978,293.2927,L Medial Branche,,Branching point 1/5,183
+MEDIAAL mid splitsing - mid,5,93.0443,189.4733,312.5593,L Medial Branche,,Medial branche proximal 2/5,183
+mid,5,80.336,186.3179,311.4074,L Medial Branche,,Medial branche intermedial 3/5,183
+mid dist - mid,5,69.2955,186.9928,310.0703,L Medial Branche,,Medial branche intermedial 4/5,183
+mediale tak dist,5,54.1249,188.3223,304.1166,L Medial Branche,,Medial branche distal 5/5,183
+n supraorbitalis splitsing,6,109.9781,205.0978,293.2927,L Intermedial Branche,,Branching point 1/5,183
+INTER mid splitsing - mid,6,86.3962,179.1772,301.3442,L Intermedial Branche,,Intermedial branche proximal 2/5,183
+mid,6,64.5081,175.4421,291.4878,L Intermedial Branche,,Intermedial branche intermedial 3/5,183
+mid dist - mid,6,47.1271,176.2679,281.4122,L Intermedial Branche,,Intermedial branche intermedial 4/5,183
+inter tak dist,6,24.302,181.1655,266.5085,L Intermedial Branche,,Intermedial branche distal 5/5,183
+n supraorbitalis splitsing,7,109.9781,205.0978,293.2927,L Lateral Branche,,Branching point 1/5,183
+LATERAAL mid splitsing - mid,7,87.4327,177.4455,298.4417,L Lateral Branche,,Lateral branche proximal 2/5,183
+mid,7,71.6364,171.2769,285.7981,L Lateral Branche,,Lateral branche intermedial 3/5,183
+mid dist - mid,7,58.4476,171.0231,278.9435,L Lateral Branche,,Lateral branche intermedial 4/5,183
+laterale tak dist,7,35.2611,170.3606,254.5692,L Lateral Branche,,Lateral branche distal 5/5,183
+lat boven,8,106.5202,179.3094,282.3511,,,,183
+mid onder,8,115.0791,197.3667,304.8035,,,,183
+med onder,8,120.7569,218.1043,302.2438,,,,183
+corrugator supercilii med boven,8,112.1927,222.8655,314.4323,,,,183
+mid boven,8,103.0642,199.1687,309.046,,,,183
+lat onder,8,119.3926,184.3062,280.932,,,,183
+doorboring med tak,9,96.4498,193.3105,307.8481,,,,183
+doorboring intermed tak,9,93.0412,185.7486,300.9873,,,,183
+doorboring lat tak,9,99.436,188.2138,301.6167,,,,183
+frontalis basis med,10,116.8481,210.4531,307.4407,,,,183
+med mid,10,87.4236,199.6313,321.4045,,,,183
+med dist,10,54.2536,201.085,314.2858,,,,183
+mid prox - med,10,49.1231,192.4892,305.0724,,,,183
+prox mid,10,47.9939,180.3336,288.1902,,,,183
+mid prox - lat,10,60.0036,171.1344,277.9675,,,,183
+lat dist,10,58.6007,171.2012,273.3447,,,,183
+lat mid,10,82.6141,173.9529,284.5925,,,,183
+basis lat,10,112.3964,183.7078,287.7723,,,,183
+hoek oogkast links,1,127.863,180.2434,256.3866,,,,183
+botkraakbeen overgang neus,1,121.4519,280.3287,290.8445,,,,183
+hoek oogkast rechts,1,139.0152,227.5814,312.0438,,,,183
+sulcus supra orbitalis,3,111.1877,247.7201,310.4533,,,Supra orbital notch,183
+n supraorbitalis splitsing,5,111.1877,247.7201,310.4533,R Medial Branche,,Branching point 1/5,183
+MEDIAAL mid splitsing - mid,5,112.1089,244.4507,318.7169,R Medial Branche,,Medial branche proximal 2/5,183
+mid,5,101.668,243.3109,320.6658,R Medial Branche,,Medial branche intermedial 3/5,183
+mid dist - mid,5,86.5955,243.5037,324.3212,R Medial Branche,,Medial branche intermedial 4/5,183
+mediale tak dist,5,75.4999,242.0829,323.7966,R Medial Branche,,Medial branche distal 5/5,183
+n supraorbitalis splitsing,6,111.1877,247.7201,310.4533,R Intermedial Branche,,Branching point 1/5,183
+INTER mid splitsing - mid,6,97.8543,254.383,316.88,R Intermedial Branche,,Intermedial branche proximal 2/5,183
+mid,6,65.4723,256.301,311.4506,R Intermedial Branche,,Intermedial branche intermedial 3/5,183
+mid dist - mid,6,36.1649,256.6868,296.9425,R Intermedial Branche,,Intermedial branche intermedial 4/5,183
+inter tak dist,6,14.271,257.1452,278.8648,R Intermedial Branche,,Intermedial branche distal 5/5,183
+n supraorbitalis splitsing,7,111.1877,247.7201,310.4533,R Lateral Branche,,Branching point 1/5,183
+LATERAAL mid splitsing - mid,7,92.1372,261.4777,313.7203,R Lateral Branche,,Lateral branche proximal 2/5,183
+mid,7,60.138,265.0543,303.6903,R Lateral Branche,,Lateral branche intermedial 3/5,183
+mid dist - mid,7,27.0474,269.026,283.1748,R Lateral Branche,,Lateral branche intermedial 4/5,183
+laterale tak dist,7,16.5147,268.0576,270.0221,R Lateral Branche,,Lateral branche distal 5/5,183
+lat boven,8,105.3503,274.351,299.9539,,,,183
+mid onder,8,113.7655,253.797,313.2647,,,,183
+med onder,8,123.1564,231.686,304.5885,,,,183
+corrugator supercilii med boven,8,113.1591,227.0744,315.5907,,,,183
+mid boven,8,99.8938,251.7516,317.1921,,,,183
+lat onder,8,116.9958,273.1396,300.7921,,,,183
+doorboring med tak,9,94.123,244.4848,320.4965,,,,183
+doorboring intermed tak,9,,,,,,,183
+doorboring lat tak,9,,,,,,,183
+frontalis basis med,10,111.734,238.4972,314.4109,,,,183
+med mid,10,99.9073,236.0581,322.9194,,,,183
+med dist,10,67.4364,237.105,322.6149,,,,183
+mid prox - med,10,58.6328,249.8569,314.9788,,,,183
+prox mid,10,51.4007,264.704,303.5391,,,,183
+mid prox - lat,10,59.9807,279.8129,291.6335,,,,183
+lat dist,10,54.6931,274.7084,293.7393,,,,183
+lat mid,10,86.3645,274.1301,295.5857,,,,183
+basis lat,10,111.7866,273.0492,300.8483,,,,183
+hoek oogkast links,1,204.8102,-239.8563,255.0035,Reference frame,,Left Eye Corner,197
+botkraakbeen overgang neus,1,186.5652,-183.836,278.9777,Reference frame,,Nose,197
+hoek oogkast rechts,1,147.2646,-146.4517,251.9618,Reference frame,,Right Eye Corner,197
+sulcus supra orbitalis,3,179.6214,-216.2388,276.9767,,,Supra orbital notch,197
+n supraorbitalis splitsing,5,178.7191,-216.1412,280.6013,L Medial Branche,,Branching point 1/5,197
+MEDIAAL mid splitsing - mid,5,165.4131,-232.6563,285.4998,L Medial Branche,,Medial branche proximal 2/5,197
+mid,5,154.6614,-244.8417,285.535,L Medial Branche,,Medial branche intermedial 3/5,197
+mid dist - mid,5,143.4836,-254.2135,280.6484,L Medial Branche,,Medial branche intermedial 4/5,197
+mediale tak dist,5,130.0353,-260.2435,274.598,L Medial Branche,,Medial branche distal 5/5,197
+n supraorbitalis splitsing,6,178.7191,-216.1412,280.6013,L Intermedial Branche,,Branching point 1/5,197
+INTER mid splitsing - mid,6,165.383,-237.4898,284.5202,L Intermedial Branche,,Intermedial branche proximal 2/5,197
+mid,6,156.3914,-249.4037,284.4901,L Intermedial Branche,,Intermedial branche intermedial 3/5,197
+mid dist - mid,6,145.1254,-256.7571,279.5195,L Intermedial Branche,,Intermedial branche intermedial 4/5,197
+inter tak dist,6,132.2722,-264.5793,271.8006,L Intermedial Branche,,Intermedial branche distal 5/5,197
+n supraorbitalis splitsing,7,178.7191,-216.1412,280.6013,L Lateral Branche,,Branching point 1/5,197
+LATERAAL mid splitsing - mid,7,164.637,-251.057,277.1875,L Lateral Branche,,Lateral branche proximal 2/5,197
+mid,7,153.5011,-264.1993,269.6747,L Lateral Branche,,Lateral branche intermedial 3/5,197
+mid dist - mid,7,143.3345,-278.7818,257.2932,L Lateral Branche,,Lateral branche intermedial 4/5,197
+laterale tak dist,7,128.4127,-287.96,242.1707,L Lateral Branche,,Lateral branche distal 5/5,197
+lat onder,8,191.1281,-235.9694,274.9383,,,,197
+mid onder,8,180.2987,-219.2675,284.012,,,,197
+med onder,8,174.71,-203.4941,283.2721,,,,197
+corrugator supercilii med boven,8,166.9591,-207.9446,289.841,,,,197
+mid boven,8,171.8565,-226.4334,285.8604,,,,197
+lat boven,8,185.7757,-240.7482,274.7888,,,,197
+doorboring med tak,9,172.254,-222.2574,286.6451,,,,197
+doorboring intermed tak,9,175.6543,-216.5338,285.323,,,,197
+doorboring lat tak,9,,,,,,,197
+frontalis basis med,10,167.3426,-198.2537,287.9417,,,,197
+med mid,10,148.3465,-213.6753,292.5924,,,,197
+med dist,10,124.8935,-225.8212,290.9279,,,,197
+mid prox - med,10,125.6243,-239.5739,286.0208,,,,197
+prox mid,10,118.7144,-255.8011,274.8299,,,,197
+mid prox - lat,10,133.711,-276.624,259.5196,,,,197
+lat dist,10,151.5964,-281.5508,246.6213,,,,197
+lat mid,10,170.865,-264.1436,259.3591,,,,197
+basis lat,10,190.7586,-239.6794,273.2154,,,,197
+hoek oogkast links,1,205.556,-239.9678,254.5487,,,,197
+botkraakbeen overgang neus,1,186.4783,-183.6611,278.8176,,,,197
+hoek oogkast rechts,1,147.2109,-146.0945,251.3715,,,,197
+sulcus supra orbitalis,3,154.3742,-175.8247,275.3143,,,Supra orbital notch,197
+n supraorbitalis splitsing,5,149.6026,-174.5395,280.7629,R Medial Branche,,Branching point 1/5,197
+MEDIAAL mid splitsing - mid,5,130.6158,-184.4537,286.4655,R Medial Branche,,Medial branche proximal 2/5,197
+mid,5,117.8532,-187.3912,285.9317,R Medial Branche,,Medial branche intermedial 3/5,197
+mid dist - mid,5,105.9277,-193.3944,279.6874,R Medial Branche,,Medial branche intermedial 4/5,197
+mediale tak dist,5,93.0609,-196.1542,270.0953,R Medial Branche,,Medial branche distal 5/5,197
+n supraorbitalis splitsing,6,149.6026,-174.5395,280.7629,R Intermedial Branche,,Branching point 1/5,197
+INTER mid splitsing - mid,6,120.0106,-183.754,284.0639,R Intermedial Branche,,Intermedial branche proximal 2/5,197
+mid,6,100.6312,-189.2523,273.4028,R Intermedial Branche,,Intermedial branche intermedial 3/5,197
+mid dist - mid,6,81.3479,-198.1292,258.912,R Intermedial Branche,,Intermedial branche intermedial 4/5,197
+inter tak dist,6,67.3841,-209.6926,244.291,R Intermedial Branche,,Intermedial branche distal 5/5,197
+n supraorbitalis splitsing,7,149.6026,-174.5395,280.7629,R Lateral Branche,,Branching point 1/5,197
+LATERAAL mid splitsing - mid,7,114.8555,-173.0708,273.6514,R Lateral Branche,,Lateral branche proximal 2/5,197
+mid,7,96.843,-175.5692,262.3959,R Lateral Branche,,Lateral branche intermedial 3/5,197
+mid dist - mid,7,79.4197,-178.8481,242.8856,R Lateral Branche,,Lateral branche intermedial 4/5,197
+laterale tak dist,7,69.9797,-183.406,224.6831,R Lateral Branche,,Lateral branche distal 5/5,197
+lat onder,8,145.955,-152.2373,265.621,,,,197
+mid onder,8,155.8492,-170.1684,280.6221,,,,197
+med onder,8,167.0096,-190.2319,284.5623,,,,197
+corrugator supercilii med boven,8,158.4025,-196.5988,289.1037,,,,197
+mid boven,8,141.5832,-179.3432,283.8854,,,,197
+lat boven,8,134.3289,-157.0278,266.647,,,,197
+doorboring med tak,9,142.406,-183.7695,285.9617,,,,197
+doorboring intermed tak,9,,,,,,,197
+doorboring lat tak,9,,,,,,,197
+frontalis basis med,10,162.6506,-198.7193,288.6169,,,,197
+med mid,10,141.5857,-212.6183,293.2229,,,,197
+med dist,10,119.1464,-221.7904,289.0173,,,,197
+mid prox - med,10,99.0543,-211.1702,278.1489,,,,197
+prox mid,10,81.5302,-202.8914,261.0337,,,,197
+mid prox - lat,10,78.6277,-187.4124,250.2288,,,,197
+lat dist,10,86.0304,-174.1836,244.5611,,,,197
+lat mid,10,109.8154,-166.5075,261.9767,,,,197
+basis lat,10,138.4586,-158.3814,270.9665,,,,197

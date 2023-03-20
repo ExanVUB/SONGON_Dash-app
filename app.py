@@ -45,7 +45,26 @@ app.layout = html.Div([
                      {"label": "SON specimen 122", "value": 122},
                      {"label": "SON specimen 158", "value": 158},
                      {"label": "SON specimen 183", "value": 183},
-                     {"label": "SON specimen 197 ", "value": 197}],
+                     {"label": "SON specimen 197 ", "value": 197},
+                     {"label": "GON specimen 41 ", "value": 541},
+                     {"label": "GON specimen 70 ", "value": 570},
+                     {"label": "GON specimen 74 ", "value": 574},
+                     {"label": "GON specimen 80 ", "value": 580},
+                     {"label": "GON specimen 103 ", "value": 5103},
+                     {"label": "GON specimen 122 ", "value": 5122},
+                     {"label": "GON specimen 158 ", "value": 5158},
+                     {"label": "GON specimen 183 ", "value": 5183},
+                     {"label": "GON specimen 197 ", "value": 5197},
+                     {"label": "SON-GON specimen 41 ", "value": 941},
+                     {"label": "SON-GON specimen 70 ", "value": 970},
+                     {"label": "SON-GON specimen 74 ", "value": 974},
+                     {"label": "SON-GON specimen 80 ", "value": 980},
+                     {"label": "SON-GON specimen 103 ", "value": 9103},
+                     {"label": "SON-GON specimen 122 ", "value": 9122},
+                     {"label": "SON-GON specimen 158 ", "value": 9158},
+                     {"label": "SON-GON specimen 183 ", "value": 9183},
+                     {"label": "SON-GON specimen 197 ", "value": 9197},
+                 ],
                  multi=False,
                  value=41,
                  style={'width': "40%"}
@@ -54,7 +73,9 @@ app.layout = html.Div([
     html.Div(id='output_container', children=[]),
     html.Br(),
 
-    dcc.Graph(id='3D plot', figure={})
+    dcc.Graph(id='3D plot',style={
+        # 'width': '90vh',
+        'height': '90vh'})
 
 ])
 

@@ -13,7 +13,9 @@ app = Dash(__name__)
 
 # os.chdir('/Users/nicolas/Library/CloudStorage/OneDrive-VrijeUniversiteitBrussel/Onderzoek/n supraorbi occipitalis major/python xlsx files/Plotly xlsx files')
 
-df = pd.read_csv('app_data.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/ExanVUB/SONGON_Dash-app/main/app_data.csv')
+# df = pd.read_csv('app_data.csv')
+
 # df_son41 = pd.read_excel('41 supraorb plotly.xlsx')
 # df_son70 = pd.read_excel('70 supraorb plotly.xlsx')
 # df_son74 = pd.read_excel('74 supraorb plotly.xlsx')

@@ -6,7 +6,7 @@ from dash import Dash, dcc, html, Input, Output  # pip install dash (version 2.0
 
 
 app = Dash(__name__)
-
+server = app.server
 # -- Import and clean data (importing csv into pandas)
 # df = pd.read_csv("intro_bees.csv")
 
